@@ -1,4 +1,4 @@
-
+import logo from '../../assets/Logo-01.png';
 
 const UpperNav = () => {
    
@@ -8,11 +8,12 @@ const UpperNav = () => {
     return (
         <div className="navbar text-black flex justify-between w-full ">
             <div className="navbar-start">
-                <a className="btn btn-ghost text-xl">Ma General Hospital</a>
+                <img className='w-16 h-16 md:ml-6' src={logo} alt="" />
+                <a className="ml-5 font-bold  text-2xl">Ma General Hospital</a>
             </div>
 
 
-            <div>
+            <div className='md:mr-6'>
                 <label className="input input-bordered bg-slate-200 text-black flex items-center gap-2">
                     <input type="text" className="grow " id='place' placeholder="Search" />
                     <svg

@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "1",
+        "name" : "Full Body Health Checkup",
+        "price" : "14000",
+        "type" : "Diagnosis",
+        "tests" : ["rbc","wbc","diabetes"],
+        "img" : "../src/assets/full body.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Dengue Checkup",
+        "price" : "1000",
+        "type" : "Diagnosis",
+        "tests" : ["cbc","Dengue NS1","Dengue Igg & Igm"],
+        "img" : "../src/assets/Dengue-tests.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Hajj Package",
+        "price" : "1000",
+        "type" : "Diagnosis",
+        "tests" : ["cbc","urine r/m/e","chest p/a"],
+        "img" : "../src/assets/full body.jpg"
+    },
+    {  "id" : "4",
+        "name" : "Womans Health Checkup package ",
+        "price" : "3000",
+        "type" : "Diagnosis",
+        "tests" : ["cbc","urine r/m/e","tsh","Paps-Smear", "S. Ferritin"],
+        "img" : "../src/assets/Womens-Health-Checkups-1.jpg"
+    }
+    
+]

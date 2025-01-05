@@ -1,12 +1,19 @@
 
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     const navLinks =
         <>
-            <NavLink  to={'/home'}>Home</NavLink>
+            <NavLink to={'/home'}>Home</NavLink>
             <p>-</p>
-            <NavLink to={'/services'}>Our Services</NavLink>
+            <div className="dropdown dropdown-hover">
+            <ul>Services</ul>
+                <ul tabIndex={0} className="dropdown-content menu bg-white text-black rounded-box z-[1] w-52 p-2 shadow">
+                   <Link to={'/services/healthAndWellness'}>Health And Wellness</Link>
+                   <Link to={'/services/firstAid'}>Family Physician And First Aid Care</Link>
+                   <Link to={'/services/diagnostics'}>Diagnostics</Link>
+                </ul>
+            </div>
             <p>-</p>
             <NavLink to={'/health-check'}>Health Check</NavLink>
             <p>-</p>
@@ -42,14 +49,14 @@ const Navbar = () => {
                         }
                     </ul>
                 </div>
-             
+
             </div>
             <div className=" hidden lg:flex justify-center">
                 <ul className="menu menu-horizontal flex gap-3">
                     {navLinks}
                 </ul>
             </div>
-          
+
         </div>
     );
 };

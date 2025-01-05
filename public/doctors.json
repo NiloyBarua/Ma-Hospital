@@ -2,164 +2,324 @@
     "doctors": [
       {
         "doctor_id": "D001",
-        "doctor_name": "Dr. John Doe",
+        "doctor_name": "Dr. Imran Alam Chowdhury ",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MD",
+        "doctor_degree": "MBBS, MRCP (London, UK), MRCPE (Edinberg), MRCPS (Glassgow)",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "Medicine",
+        "doctor_specialist": "Medicine",
+        "doctor_day" :"Sat, Mon & Wed",
+        "doctor_time":"6:00pm - 8:00pm"
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Misbahus Salehin",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, BCS (Health), MD (Medicine)",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "Medicine",
+        "doctor_specialist": "Medicine",
+        "doctor_day" :"Thursday-Monday",
+        "doctor_time":"10:00am - 1:00pm"
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. MD. Kawser Uddin Sowaib ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, BCS (Health), FCPS (Medicine)",
+        "doctor_rank" : "Associate Professor",
+        "doctor_department" : "Medicine",
+        "doctor_specialist": "Medicine",
+        "doctor_day" :"Sun, Wed & Fri",
+        "doctor_time":"5:00pm - 8:00pm"
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Parijat Biswas",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, BCS (Health), FCPS (Medicine), MCPS (Medicine), ",
+        "doctor_rank" : "Consultant",
+        "doctor_department" : "Medicine",
+        "doctor_specialist": "Medicine",
+        "doctor_day" :"Sun, Tues & Thurs",
+        "doctor_time":"8:00pm - 10:00pm"
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. A.S.M Lutfur Kabir (Shimul)",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, BCS (Health), FCPS (Medicine), MCPS (Medicine), MACP (America)",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "Medicine",
+        "doctor_specialist": "Medicine",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Nazim Uddin Md. Soikat",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MD (Cardiology), BSMMU, CCD (Diabetic), Bardem",
+        "doctor_rank" : "Assistant Professor",
+        "doctor_department" : "Cardiology",
         "doctor_specialist": "Cardiologist",
-        "visiting_hour": "Mon-Fri: 10:00 AM - 5:00 PM"
+        "doctor_day" :"Friday",
+        "doctor_time":"7:00pm - 9:00pm"
       },
       {
-        "doctor_id": "D002",
-        "doctor_name": "Dr. Jane Smith",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MS",
-        "doctor_specialist": "Neurologist",
-        "visiting_hour": "Mon-Fri: 9:00 AM - 4:00 PM"
-      },
-      {
-        "doctor_id": "D003",
-        "doctor_name": "Dr. Michael Johnson",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Rokon Uddin",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, DNB",
-        "doctor_specialist": "Orthopedic",
-        "visiting_hour": "Mon, Wed, Fri: 11:00 AM - 2:00 PM"
+        "doctor_degree": "MBBS, BCS (Health), MD (Cardiology)",
+        "doctor_rank" : "Consultant",
+        "doctor_department" : "Cardiology",
+        "doctor_specialist": "Cardiologist",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D004",
-        "doctor_name": "Dr. Emily Davis",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Shahnur Hasina Momtaz Begum Koli",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MS",
-        "doctor_specialist": "Gynecologist",
-        "visiting_hour": "Mon-Sat: 9:00 AM - 6:00 PM"
+        "doctor_degree": "MBBS, DCH, MD (Pediatric)",
+        "doctor_rank" : "Associate Professor",
+        "doctor_department" : "Pediatric",
+        "doctor_specialist": "Child Specialist",
+        "doctor_day" :"Sun, Tues & Thurs",
+        "doctor_time":"4:00pm - 6:00pm"
       },
       {
-        "doctor_id": "D005",
-        "doctor_name": "Dr. William Brown",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Robiul Hossain Chowdhury",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, PhD",
-        "doctor_specialist": "Pediatrician",
-        "visiting_hour": "Tue-Sun: 10:00 AM - 3:00 PM"
+        "doctor_degree": "MBBS, PGT, DCH (BSMMU)",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "Pediatric",
+        "doctor_specialist": "Child Specialist",
+        "doctor_day" :"Everyday",
+        "doctor_time":"8:00pm - 10:00pm"
       },
       {
-        "doctor_id": "D006",
-        "doctor_name": "Dr. Ava Wilson",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MD",
-        "doctor_specialist": "Dermatologist",
-        "visiting_hour": "Mon-Fri: 12:00 PM - 5:00 PM"
-      },
-      {
-        "doctor_id": "D007",
-        "doctor_name": "Dr. Lucas Miller",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Monjura Chowdhury",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, DNB",
-        "doctor_specialist": "Psychiatrist",
-        "visiting_hour": "Mon, Wed, Fri: 10:00 AM - 1:00 PM"
+        "doctor_degree": "MBBS, FCPS, Post Fellowship & Training In Infertility, Nova IVF, GGRHR, India (IUI,IVF) Special Trained In Laporoscopy & Histroscopy,TVS",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "Gyanecology",
+        "doctor_specialist": "Gynaecologist",
+        "doctor_day" :"Everyday (Friday Off)",
+        "doctor_time":"10:00am - 12:00pm"
       },
       {
-        "doctor_id": "D008",
-        "doctor_name": "Dr. Sophia Moore",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MD",
-        "doctor_specialist": "Endocrinologist",
-        "visiting_hour": "Tue-Thu: 11:00 AM - 4:00 PM"
-      },
-      {
-        "doctor_id": "D009",
-        "doctor_name": "Dr. James Taylor",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Rahima Khatun",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MS",
-        "doctor_specialist": "Surgeon",
-        "visiting_hour": "Mon-Sat: 9:00 AM - 5:00 PM"
+        "doctor_degree": "MBBS, MCPS, DGOE, Oc (Bangkok)",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "Gyanecology",
+        "doctor_specialist": "Gynaecologist",
+        "doctor_day" :"Sat, Mon & Wed",
+        "doctor_time":"6:30pm - 8:30pm"
       },
       {
-        "doctor_id": "D010",
-        "doctor_name": "Dr. Isabella Anderson",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Sabina Yasmin",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, DNB",
-        "doctor_specialist": "Ophthalmologist",
-        "visiting_hour": "Mon-Fri: 10:00 AM - 6:00 PM"
+        "doctor_degree": "MBBS, FCPS, DGO (Gynae & Obs)",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "Gyanecology",
+        "doctor_specialist": "Gynaecologist",
+        "doctor_day" :"Sat, Mon & Wed",
+        "doctor_time":"6:00pm - 9:00pm"
       },
       {
-        "doctor_id": "D011",
-        "doctor_name": "Dr. Elijah Thomas",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MD",
-        "doctor_specialist": "Gastroenterologist",
-        "visiting_hour": "Mon, Wed: 9:00 AM - 2:00 PM"
-      },
-      {
-        "doctor_id": "D012",
-        "doctor_name": "Dr. Mia Jackson",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MS",
-        "doctor_specialist": "ENT Specialist",
-        "visiting_hour": "Tue-Sat: 8:00 AM - 1:00 PM"
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D013",
-        "doctor_name": "Dr. Daniel White",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, PhD",
-        "doctor_specialist": "Pulmonologist",
-        "visiting_hour": "Mon-Fri: 10:00 AM - 4:00 PM"
-      },
-      {
-        "doctor_id": "D014",
-        "doctor_name": "Dr. Lily Harris",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, DNB",
-        "doctor_specialist": "Nephrologist",
-        "visiting_hour": "Mon-Sun: 9:00 AM - 6:00 PM"
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D015",
-        "doctor_name": "Dr. Benjamin Clark",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MD",
-        "doctor_specialist": "Rheumatologist",
-        "visiting_hour": "Mon-Fri: 8:00 AM - 2:00 PM"
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D016",
-        "doctor_name": "Dr. Ella Lewis",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MS",
-        "doctor_specialist": "Urologist",
-        "visiting_hour": "Mon-Wed: 10:00 AM - 3:00 PM"
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D017",
-        "doctor_name": "Dr. Henry Walker",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
         "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, DNB",
-        "doctor_specialist": "Hematologist",
-        "visiting_hour": "Mon-Fri: 8:30 AM - 5:30 PM"
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D018",
-        "doctor_name": "Dr. Charlotte Lee",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, MD",
-        "doctor_specialist": "Infectious Disease Specialist",
-        "visiting_hour": "Tue-Sat: 9:00 AM - 1:00 PM"
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D019",
-        "doctor_name": "Dr. Oliver Scott",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, DNB",
-        "doctor_specialist": "Plastic Surgeon",
-        "visiting_hour": "Mon, Wed, Fri: 10:00 AM - 4:00 PM"
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       },
       {
-        "doctor_id": "D020",
-        "doctor_name": "Dr. Zoe Young",
-        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
-        "doctor_degree": "MBBS, PhD",
-        "doctor_specialist": "Radiologist",
-        "visiting_hour": "Mon-Sun: 10:00 AM - 6:00 PM"
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
+      },
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. ",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, ",
+        "doctor_rank" : "Senior Consultant",
+        "doctor_department" : "",
+        "doctor_specialist": "",
+        "doctor_day" :"",
+        "doctor_time":""
       }
+        
     ]
   }
   
